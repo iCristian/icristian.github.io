@@ -1,4 +1,4 @@
-_site
-.sass-cache
-node_modules
-_drafts
+.sass-cache/
+bower_components/
+gh-pages/
+node_modules/
